@@ -1,1 +1,1 @@
-Trước hết đây là Bài tập lớn môn Nhập môn Điện tử Viễn thông - ET2000Q - của nhóm 6 bao gốm Nguyễn Minh Đức, Nguyễn Ngọc Sơn, Nguyễn Thị Liên, Nguyễn Huy Thái Duy và Nguyễn Quang Hiển, dưới sự hướng dẫn của giảng viên Hàn Huy Dũng, kỳ 20221.
+Trước hết đây là Bài tập lớn môn Nhập môn Điện tử Viễn thông - ET2000Q - của nhóm 6 bao gồm Nguyễn Minh Đức, Nguyễn Ngọc Sơn, Nguyễn Thị Liên, Nguyễn Huy Thái Duy và Nguyễn Quang Hiển, dưới sự hướng dẫn của giảng viên Hàn Huy Dũng, kỳ 20221.
